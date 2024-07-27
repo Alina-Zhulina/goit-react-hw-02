@@ -1,0 +1,11 @@
+.optionsButtonsBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+.optionsButton {
+  background-color: #cdc6c6;
+  border-color: rgb(183, 137, 81);
+  color: rgba(43, 39, 39, 0.87);
+}
